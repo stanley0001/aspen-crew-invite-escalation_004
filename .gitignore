@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+*.egg-info/
+.DS_Store
+Thumbs.db
+docs/
+prompt.txt
+task_config.json
+reasoning.txt
+README.md
+DEEP_DIVE.md
